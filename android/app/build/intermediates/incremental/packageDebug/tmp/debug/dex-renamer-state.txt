@@ -1,0 +1,4 @@
+#Mon Mar 30 15:59:12 BST 2020
+base.0=/Users/joshlowe/Documents/GitHub/MobileAppDev/week_24/TestProject/android/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
